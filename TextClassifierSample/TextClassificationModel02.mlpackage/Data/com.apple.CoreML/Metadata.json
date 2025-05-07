@@ -1,0 +1,14 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "--",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.createml.app.tag" : "151.2",
+    "com.apple.createml.training.finished" : "2025-04-28T09:57:05Z",
+    "com.apple.createml.model.created" : "2025-04-28T09:57:05Z",
+    "com.apple.createml.app.version" : "6.2",
+    "com.apple.coreml.model.preview.type" : "textClassifier",
+    "com.apple.createml.training.started" : "2025-04-28T09:57:05Z"
+  },
+  "MLModelAuthorKey" : "Tester",
+  "MLModelLicenseKey" : "--"
+}
