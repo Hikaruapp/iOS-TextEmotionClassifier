@@ -23,7 +23,7 @@
 - モデルデータ作成   
  Create ML (Xcode -> Open Develpper Tool)  
  Create ML起動 -> プロジェクト作成 -> CSVファイルドロップ -> Trainで作成完了  
- モデルデータへ移動：[TextClassificationModel02.mlpackage](TextClassifierSample/TextClassifierSample/TextClassificationModel02.mlpackage)  
+ モデルデータへ移動：[TextClassificationModel02.mlpackage](TextClassifierSample/TextClassifierSample/TextClassificationModel02.mlpackage/)  
  
 ## 判定用文章の準備  
 - 全部の判定が出力されるような、曖昧な文章作成をChat GPTに作成依頼    
